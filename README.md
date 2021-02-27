@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I'm Nilo Ferreira 👋
+- 🌱 I’m currently learning Next
+- - 🔭 I’m currently working on https://montecarlosgames.com
 <!--
 **nilosmferreira/nilosmferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
