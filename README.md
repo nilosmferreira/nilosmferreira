@@ -1,12 +1,13 @@
 ### Hi, I'm Nilo Ferreira 👋
 
+<!--
 I'm working to switch from desktop developer (In C#) to front-end developer (ReatJS/Next). I'm based in Recife, Brazil.
 
 Since 1999 working with desktop development, working with ERP systems, with internal demands from the companies I worked in and some automation. In 2015 I started to have a demand on the front-end and made me study AngularJS (1.2) and ended up converting this application to ReatJS and thus modernizing the application.
 
 I'm currently learning Next.
 
-<!--
+
 **nilosmferreira/nilosmferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
